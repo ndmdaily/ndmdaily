@@ -1,4 +1,4 @@
-## DFIR | VAPT | CTI
+## DFIR | VAPT | CTI | OSINT
 
 Welcome to my GitHub! I'm passionate in Digital Forensic and Incident Response, Vulnerability Assessment and Penetration Testing, Cyber Threat Intelligence.
 
